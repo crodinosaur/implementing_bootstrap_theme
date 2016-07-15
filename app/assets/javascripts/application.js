@@ -11,6 +11,7 @@
 // about supported directives.
 //
 //= require vendor/jquery.js
+//= require jquery_ujs
 //= require vendor/bootstrap.js
 //= require vendor/jquery.easing.min.js
 //= require vendor/scrollreveal.js
